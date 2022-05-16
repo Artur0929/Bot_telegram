@@ -1,5 +1,5 @@
 # Bot_telegram
-
+```
 import telebot
 import config as cfg
 from telebot import types
@@ -47,3 +47,4 @@ def oplata(message):
 
 
 bot.polling(none_stop=True)
+```
